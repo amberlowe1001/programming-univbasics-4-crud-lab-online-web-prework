@@ -2,11 +2,11 @@ def create_an_empty_array[]
   
 end
 
-def Friends= aray ["April", "Colleen", "Jen", "Kristi"]
+def Friends= Array["April", "Colleen", "Jen", "Kristi"]
   
 end
 
-def add_element_to_end_of_array(array, element)
+def Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
   
 end
 
