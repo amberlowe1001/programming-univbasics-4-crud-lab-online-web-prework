@@ -15,6 +15,7 @@ def  Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
 end
 
 def  Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
+  array.new[]
   
 end
 
