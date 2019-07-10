@@ -2,7 +2,7 @@ def create_an_empty_array[]
   
 end
 
-def Friends= aray ["April", "Colleen", Jen, Kristi]
+def Friends= aray ["April", "Colleen", "Jen", "Kristi"]
   
 end
 
