@@ -10,7 +10,7 @@ def Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
   
 end
 
-def 
+def Friends_a
   
 end
 
