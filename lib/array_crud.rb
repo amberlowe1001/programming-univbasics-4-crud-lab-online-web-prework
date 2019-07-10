@@ -24,7 +24,7 @@ def Friends_ages= array (:April[] :Colleen[30]:Jem[27])
   
 end
 
-def retrieve_element_from_index(array, index_number)
+def 
   
 end
 
