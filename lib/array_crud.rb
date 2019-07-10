@@ -6,20 +6,20 @@ def Friends= Array("April", "Colleen", "Jen", "Kristi")
   
 end
 
-def Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
+def Friends_ages= array (:April[41] :Colleen[30]:Jem[27])
   
 end
 
-def  Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
+def  Friends_ages= array (:April[41] :Colleen[30]:Jem[27])
   
 end
 
-def  Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
+def  Friends_ages= array (:April[41] :Colleen[30]:Jem[27])
   array.new[]
   
 end
 
-def Friends_ages= array (:April[], :Colleen[30]:Jem[27])
+def Friends_ages= array (:April[] :Colleen[30]:Jem[27])
   array.new[]
   
 end
