@@ -19,7 +19,7 @@ def  Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
   
 end
 
-def remove_element_from_start_of_array(array)
+def 
   
 end
 
