@@ -10,11 +10,11 @@ def Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
   
 end
 
-def 
+def  Friends_ages= array (:April[41], :Colleen[30]:Jem[27])
   
 end
 
-def remove_element_from_end_of_array(array)
+def 
   
 end
 
