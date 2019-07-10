@@ -26,7 +26,7 @@ end
 
 def Friends_ages= array (:April[41], :Colleen[30]:Jem[27] : Kristi[32])
   array.new[]
-  puts
+  puts= array[0]
   
 end
 
